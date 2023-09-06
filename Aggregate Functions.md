@@ -8,7 +8,7 @@
 
 
 ##### Question 1: What is the average salary for the company?
-#####Table: > Salaries
+##### Table: > Salaries
 
 ```python
 SELECT AVG(salary) FROM Salaries
